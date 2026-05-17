@@ -23,7 +23,7 @@ Here's the thing: the increasingly pressing question in AI stops being **"what c
 
 In Civilizism, **LLMs are reserved for exactly two things**: action generation and reflection — the moments where improvisation is the intended effect. Everything else — attention modeling, memory retrieval, belief clustering, personality initialization, perceptual scoring — is algorithmically designed from scratch.
 
-That's STEME, BLOC, SHAPE, and DASP. All built in-house. None of them are wrappers.
+That's [STEME](https://github.com/Tim-Chen-Yen-Ting/STEME), [BLOC](https://github.com/Tim-Chen-Yen-Ting/BLOC), SHAPE, and DASP. All built in-house. None of them are wrappers.
 
 ---
 
