@@ -33,7 +33,7 @@ Before a specialist can be introduced, you first need a **firefighting generalis
 
 That's me.
 
-I wanted a thought-experiment playground, so I built one. Civilizism needed a visualization layer, so I forced myself to learn it. My Student Council was breaking apart from administrative collapse, so I held it together with documented handbooks and institutional memory until the structure could stand on its own again.
+I wanted a thought-experiment playground, so I built one. Civilizism needed a visualization layer, so I forced myself to learn it. My Student Council was breaking apart from administrative collapse, so I held it together with documented handbooks and institutional memory until the structure could stand on its own again. Now I'm doing the same thing somewhere it actually has to survive contact with a real product: at Phygtl, I designed and built a small AI system of my own — one LLM roleplays real users, working through the actual product under real-world scenarios, and a second LLM reads the resulting transcript and judges how the product held up. It runs nightly, gated by CI, no one watching it by hand. And when I found a gap in how the product understood people, I didn't just flag it — I proved it with data and got the fix adopted company-wide.
 
 You need something? Name it. I can't promise perfection — but I can promise **sufficiency, and faster than you'd expect.**
 
@@ -43,9 +43,9 @@ You need something? Name it. I can't promise perfection — but I can promise **
 
 ```
 Languages   Python · R · SQL · Java · C++ · JS/HTML/CSS
-Libraries   NumPy · scikit-learn · sentence-transformers · FastAPI · Pydantic
-Concepts    System Architecture · Semantic NLP · Distributed AI Pipelines
-            Multi-Agent Systems · LLM Integration · Modular Design
+Libraries   NumPy · scikit-learn · sentence-transformers · Pydantic
+Concepts    System Architecture · Semantic NLP · Concurrent Multi-Agent Systems
+            LLM Integration · Modular Design
 ```
 
 ---
